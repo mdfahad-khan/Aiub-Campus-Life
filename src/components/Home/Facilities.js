@@ -26,7 +26,7 @@ const facilities = [
     type: "Library",
     name: "Main Library",
     description:
-      "A place to read and borrow books.A place to read and borrow books.A place to read and borrow books.A place to read and borrow books.A place to read and borrow books.A place to read and borrow books.A place to read and borrow books.A place to read and borrow books.A place to read and borrow books.A place to read and borrow books.A place to read and borrow books.",
+      "A place to read and borrow books.",
     location: "Building C",
     image: Library,
     icon: FaBook,
