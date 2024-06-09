@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "image": "richdad.jpg",
+    "summary": "Rich Dad Poor Dad is a personal finance book that contrasts the financial philosophies of the author's two 'dads'—his biological father (poor dad) and the father of his best friend (rich dad). The book teaches the importance of financial literacy, investing, and managing money to achieve financial independence.",
+    "genre": "Finance",
+    "publishedYear": "1997"
+  },
+  {
+    "id": 2,
+    "title": "Think And Grow Rich",
+    "author": "Napoleon Hill",
+    "image": "think.jpg",
+    "summary": "Think and Grow Rich is a self-help book that outlines 13 principles for personal and financial success. Based on Hill's study of successful individuals, the book emphasizes the power of thoughts and the importance of a definite purpose, persistence, and planning in achieving wealth and success.",
+    "genre": "Self-help",
+    "publishedYear": "1937"
+  },
+  {
+    "id": 3,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "image": "atomic.jpg",
+    "summary": "Atomic Habits offers a proven framework for improving every day. James Clear explains how tiny changes can yield remarkable results and provides practical strategies for forming good habits, breaking bad ones, and mastering the tiny behaviors that lead to remarkable results.",
+    "genre": "Self-help",
+    "publishedYear": "2018"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "pride.jpg",
+    "summary": "Pride and Prejudice is a classic novel that explores themes of love, social standing, and reputation. It follows the story of Elizabeth Bennet as she navigates issues of manners, upbringing, and marriage in the society of early 19th-century England.",
+    "genre": "Fiction",
+    "publishedYear": "1813"
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "great.jpg",
+    "summary": "The Great Gatsby is a novel set in the Jazz Age that tells the story of the mysterious millionaire Jay Gatsby and his obsession with the beautiful Daisy Buchanan. Through the eyes of narrator Nick Carraway, the novel explores themes of decadence, idealism, resistance to change, social upheaval, and excess.",
+    "genre": "Fiction",
+    "publishedYear": "1925"
+  },
+  {
+    "id": 6,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "toKill.jpg",
+    "summary": "To Kill a Mockingbird is a novel set in the American South during the 1930s. It addresses serious issues such as racial injustice and the loss of innocence through the eyes of young Scout Finch. Her father, Atticus Finch, is an honorable lawyer who defends a black man unjustly accused of raping a white woman.",
+    "genre": "Fiction",
+    "publishedYear": "1960"
+  },
+  {
+    "id": 7,
+    "title": "1984",
+    "author": "George Orwell",
+    "image": "1984.png",
+    "summary": "1984 is a dystopian novel that delves into the dangers of totalitarianism. It follows Winston Smith, a low-ranking member of the Party in Oceania, as he navigates a world of perpetual war, surveillance, and propaganda. The book explores themes of censorship, individuality, and the oppressive power of the state.",
+    "genre": "Fiction",
+    "publishedYear": "1949"
+  },
+  {
+    "id": 8,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "catcher.jpg",
+    "summary": "The Catcher in the Rye is a novel about teenage rebellion and alienation. It follows 16-year-old Holden Caulfield as he wanders New York City after being expelled from prep school. The book delves into his thoughts on adulthood, identity, and the phoniness of the world around him.",
+    "genre": "Fiction",
+    "publishedYear": "1951"
+  }
+]

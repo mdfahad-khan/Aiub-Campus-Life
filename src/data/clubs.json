@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "AIUB English Club",
+    "description": "Besides their regular general meetings and member recruitment campaigns, the AEngC arranges interactive discussion sessions for its members, workshops focusing on various aspects speaking, reading, listening, and writing, public speaking events, collaborative writing projects, etc., geared towards encouraging and enabling students to proactively work on improving their dexterity on the English language.",
+    "contact": "englishclub@aiub.edu",
+    "image": "englishClub.png",
+    "objective": "Established in 2023, the purpose of the AIUB English Club (AEngC) is to provide students with an engaging environment where they can learn about the English language, its literary work, and its usage as a medium of communication. Through diverse activities and collaborative projects, members can work on practicing and improving their listening, speaking, reading, and writing skills, to build confidence and competence in public speaking, presentations, debates, creative writing, editorials, etc."
+  },
+  {
+    "id": 2,
+    "name": "AIUB Environment Club",
+    "description": "Activities:ACC is an infusion of a diverse set of interests existing within the students of science and IT, enhancing the educational learning with value-added trainings, workshops, and seminars for the members. Their events entail numerous activities like programming contests, gaming tournaments, idea/concept presentations, mobile, web, & desktop app showcases, and networking contests, collaborating with established brands of the tech industry like Microsoft, Oracle, Cisco, etc. ACC engages in several flagship events like the Computer Science Festival, Cyber-Gaming Fest, Jarvis, etc., besides their regular seminars and workshops. Keeping attuned with the industry trends, ACC collaborates with various organizations like Mozilla Bangladesh, Microsoft Student Partner, BASIS Student Forum.",
+    "contact": "environmentclub@aiub.edu",
+    "image": "enviromentClub.png",
+    "objective": "ACC commenced in 2012 with the idea of creating a platform for students to spread out the light of technology, building skills in various sectors including Content Writing, Photojournalism, Video Editing, Event Organizing, Volunteering, Development, UI/UX Design, and Graphic Design, connect with a community of members, alumni, and faculties in order to learn about the demanding skills of the current and future professional domain, and organize programs that train and test their aptitudes in the field of computer science."
+  },
+  {
+    "id": 3,
+    "name": "AIUB Research Club",
+    "description": "AIUBReD arranges research paper presentations, poster sessions, and symposiums showcasing members’ research within the university community. They organize workshops and seminars on topics like research design, data analysis, scientific writing, and intellectual property. The club explores industry collaborations by partnering with companies, NGOs, or research institutions for internship opportunities, guest lectures, and real-world research projects. AIUBBReD connects experienced researchers from the different faculties as well as skilled industry professionals with student members as a knowledge-sharing platforms, for them to share research findings and engage in intellectual discourse.",
+    "contact": "research@aiub.edu",
+    "image": "researchClub.png",
+    "objective": "Established in 2023, the AIUB Research for Development Club (AIUBReD) focuses on research, development, and innovation (RDI) among AIUB students across all disciplines. It cultivates a collaborative learning environment where students can develop critical thinking, problem-solving, and research methodologies. In order to nurture future researchers and innovators by providing opportunities to translate theoretical knowledge into practical solutions, AIUBReD works on bridging the gap between academia and industry by fostering connections with external stakeholders."
+  },
+  {
+    "id": 4,
+    "name": "AIUB Computer Club",
+    "description": "ACC commenced in 2012 with the idea of creating a platform for students to spread out the light of technology, building skills in various sectors including Content Writing, Photojournalism, Video Editing, Event Organizing, Volunteering, Development, UI/UX Design, and Graphic Design, connect with a community of members, alumni, and faculties in order to learn about the demanding skills of the current and future professional domain, and organize programs that train and test their aptitudes in the field of computer science",
+    "contact": "computer@aiub.edu",
+    "image": "computerClub.jpg",
+    "objective": "ACC is an infusion of a diverse set of interests existing within the students of science and IT, enhancing the educational learning with value-added trainings, workshops, and seminars for the members. Their events entail numerous activities like programming contests, gaming tournaments, idea/concept presentations, mobile, web, & desktop app showcases, and networking contests, collaborating with established brands of the tech industry like Microsoft, Oracle, Cisco, etc. ACC engages in several flagship events like the Computer Science Festival, Cyber-Gaming Fest, Jarvis, etc., besides their regular seminars and workshops. Keeping attuned with the industry trends, ACC collaborates with various organizations like Mozilla Bangladesh, Microsoft Student Partner, BASIS Student Forum."
+  },
+  {
+    "id": 5,
+    "name": "AIUB Performing Art Club",
+    "description": "APAC organizes and participates in all the cultural events of the university, arranging musical and dance performances in programs of their own initiatives as well as those of other student organizations, academic departments, and the university as a whole. The club also conduct workshops with established artists of the industry, along with festival celebrations like the Bengali New Year and even tribute events on the occasion of the Independence Day. The club encompasses a talented pool of singers, dancers, musicians, designers, reciters, and capable organizers with a history of achievements on and off the stage. APAC participates in external musical competitions while organizing their own flagship events, collaborating with numerous organizations, in order to encourage young musicians and dancers to develop their skills and uphold the music-rich culture in the global landscape.",
+    "contact": "performingclub@aiub.edu",
+    "image": "perfomingClub.png",
+    "objective": "Established in 1998, the AIUB Performing Arts Club (APAC) aims to provide students with a platform to channel their creativity through music and dance. APAC promotes our cultural heritage through traditional Bengali songs and dance forms, while expanding their exposure through experiencing and experimenting with a diverse set of foreign genres, encouraging young talents to pursue their dreams in performing arts."
+  }
+]
